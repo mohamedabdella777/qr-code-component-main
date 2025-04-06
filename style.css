@@ -14,7 +14,7 @@ body{
     justify-content: center;
     align-items: center;
     background: hsl(212, 45%, 89%);
-    
+   
 }
 .content{
     margin-top: 18px;
@@ -22,7 +22,7 @@ body{
     height: 495px;
     width: 330px;
     border-radius: 20px;
-    
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
  img{
     height: 310px;
@@ -49,6 +49,7 @@ h3{
     color: hsl(218, 44%, 22%) ;
     font-weight: 900;
     font-size: 21px;
+    margin-top: 3px;
    
 }
 .inf {
