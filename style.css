@@ -59,3 +59,22 @@ h3{
     flex-direction: column; 
 
 }
+@media(max-width:375px){
+    }
+    .content{
+        height: 495px;
+        max-width: 250px;
+}
+img{
+    height: 310px;
+    max-width: 250px;
+    
+}
+p ,pre {
+    font-size: 12px;
+}
+h3{
+   font-size: 18px;
+}
+
+
